@@ -6,6 +6,17 @@
 }
 
 .trivia {
-    width: 65%;
-    height: 65%;
+    width: 25%;
+    height: 25%;
+}
+
+table {
+    border: 1px solid black;
+}
+
+th {
+    border-bottom: 2px solid black;
+}
+td {
+    border: 1px solid black;
 }
