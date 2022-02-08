@@ -1,0 +1,11 @@
+.rosie {
+    width: 10rem;
+    height: 10rem;
+    border-radius: 50%;
+    border: 1px black solid;
+}
+
+.trivia {
+    width: 65%;
+    height: 65%;
+}
